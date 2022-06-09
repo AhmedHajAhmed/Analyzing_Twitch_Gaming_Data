@@ -1,7 +1,6 @@
 # Analyzing_Twitch_Gaming_Data
 
-![Hello](twitch-ar21.png)
-
+<img src="twitch-ar21.png" width="600" height="300">
 
 Twitch is the world’s leading live streaming platform for gamers, with 15 million daily active users. 
 

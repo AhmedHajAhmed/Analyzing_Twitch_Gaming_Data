@@ -14,6 +14,3 @@ Stream viewing data:
 Chat usage data:
 
 - `chat` table
-
-And then I will visualize some data using Python.
-
